@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Survey Graph Embedding`,
+    author: `uchi_k`,
+    description: `Graph Embedding に関する研究をまとめています。`,
+    siteUrl: `https://survey-graph-embedding.github.io/blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `wednesdaymuse`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Survey Graph Embedding`,
+        short_name: `SurveyGraphEmb`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
